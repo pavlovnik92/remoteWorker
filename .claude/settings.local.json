@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/pavlov-ns/Documents/VibeCoding/RemoteWorker && echo \"---\" && ls -la \"/Users/pavlov-ns/Downloads/design_handoff_udalenshik\")"
+    ]
+  }
+}
